@@ -24,10 +24,11 @@ Olá 👋 Sou Adriano Olivastro e estou estudando Introdução à Programação,
 
 ---
 
-## **Minhas Skills em Desenvolvimento :**
+## **Meus Contatos :**
 
 
 <a href="https://github.com/olivastroaos"> <img height="30" alt="GitHub do Adriano" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> 
+
 [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-olivastro-95841561/)
 
 ---
