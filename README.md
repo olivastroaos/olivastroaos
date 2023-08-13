@@ -23,9 +23,11 @@ Olá 👋 Sou Adriano Olivastro e estou estudando Introdução à Programação,
 </div>
 
 ---
-| Perfil | Nome | Função | Github | Linkedin |
-| ---------------- | ----- | --------- | --------- | --------- |
-| <img width="100" alt="Foto de Perfil do Cesar" src="img/perfil_equipe/perfill_Adriano.jpeg"> | `Adriano Olivastro dos Santos` | Scrum Master <br> UX/UI <br> Front-End <br> QA | <a href="https://github.com/olivastroaos"> <img height="30" alt="GitHub do Cesar" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-olivastro-95841561/) |
+
+## **Minhas Skills em Desenvolvimento :**
+
+
+<a href="https://github.com/olivastroaos"> <img height="30" alt="GitHub do Adriano" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a> | [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-olivastro-95841561/) |
 <!--
 **olivastroaos/olivastroaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
