@@ -2,6 +2,8 @@
 
 Olá 👋 Sou Adriano Olivastro
 
+---
+
 ## **Tecnologias Utilizadas:**
 
 <div style="display: inline_block">
@@ -23,6 +25,8 @@ Olá 👋 Sou Adriano Olivastro
   &nbsp;&nbsp;
   <img align="center" alt="icone-SQL" height="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
+
+---
 
 <!--
 **olivastroaos/olivastroaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
