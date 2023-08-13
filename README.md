@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá 👋 Sou Adriano Olivastro
+Olá 👋 Sou Adriano Olivastro e estou estudando Introdução à Programação, com foco em Front-end
 
 ---
 
