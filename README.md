@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Olá 👋 Sou Adriano Olivastro e estou estudando Introdução à Programação, com foco em Front-end
+Olá 👋 Sou Adriano Olivastro e estou estudando Introdução à Programação, com foco em Front-end.
 
 ---
 
-## **Tecnologias Utilizadas:**
+## **Minhas Skills em Desenvolvimento :**
 
 <div style="display: inline_block">
   <img align="center" alt="icone-GIT" height="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
