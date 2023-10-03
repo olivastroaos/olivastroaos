@@ -20,6 +20,7 @@ Sou Adriano Olivastro e estou estudando Introdução à Programação, com foco 
   <img align="center" alt="icone-JS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;&nbsp;
   <img align="center" alt="icone-Python" height="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" alt="icone-SQL" height="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ---
